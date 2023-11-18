@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Rishikesh Kumar Singh</h1>
 <h3 align="center">A passionate Web development and software developer from India</h3>
+<img src="https://stock.adobe.com/in/images/depict-a-skilled-cyberpunk-hacker-in-a-futuristic-setting-surrounded-by-holographic-interfaces-intricate-code-and-virtual-reality-elements/618788564" alt="">
 
 - 🌱 I’m currently learning **DSA,Web devlopment**
 
