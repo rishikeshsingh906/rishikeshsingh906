@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Rishikesh Kumar Singh</h1>
-<h3 align="center">A passionate Web development and software developer from India</h3>
+<h3 align="center">I am Rishikesh Kumar Singh, hailing from West Muzaffarpur(Bihar) . I am currently pursuing a degree in Computer Science and Engineering at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.
+</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
 - 🌱 I’m currently learning **DSA,Web devlopment**
 
